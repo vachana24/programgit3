@@ -6,6 +6,5 @@
   <body>
     <h1>Hello, World!</h1>
     <p>This is my first HTML page.</p>
-<p>text should be bold</p>
   </body>
 </html>
